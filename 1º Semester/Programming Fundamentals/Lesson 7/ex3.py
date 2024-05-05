@@ -9,7 +9,7 @@ golpe = 0
 golpe1 = 0
 
 for i in range(vezes):
-    bonus = int(input()) 
+    bonus = int(input("Bônus: ")) 
     ataque_dabriel, defesa_dabriel, level_dabriel = map(int, input("Dabriel: ").split())
     ataque_guarte, defesa_guarte, level_guarte = map(int, input("Guarte: ").split())
 
