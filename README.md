@@ -2,6 +2,7 @@
 
 ```text
 /1º Semester
+   /Hangman_Game-main
    /Programming Fundamentals
       /Lesson 2
       /Lesson 3
@@ -15,10 +16,13 @@
       /Lesson 8
       /Lesson 11
       /Lesson 12
+   /Snake_Game-main
 
 /2º Semester
+   /Basic_Line_Panel-main
    /Data Structure
       /Lesson 2
+   /Guess_The_Number_Game-main
    /Internship
       /1º Week
          /Server PHP
@@ -42,8 +46,3 @@
             /Variables
             /While
          /Terminal PHP
-
-   /Basic_Line_Panel-main
-   /Guess_The_Number_Game-main
-   /Hangman_Game-main
-   /Snake_Game-main
