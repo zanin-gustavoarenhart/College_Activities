@@ -1,3 +1,6 @@
+### Estrutura do Repositório:
+
+```text
 /1º Semester
    /Programming Fundamentals
       /Lesson 2
@@ -5,7 +8,7 @@
       /Lesson 4
       /Lesson 5 Evaluative
          /Optional
-         /Required 
+         /Required
       /Lesson 5
       /Lesson 6
       /Lesson 7
