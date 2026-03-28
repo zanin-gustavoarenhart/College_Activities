@@ -7,7 +7,6 @@
          /Lesson 5 Evaluative
             /Optional
             /Required 
-            
          /Lesson 5
          /Lesson 6
          /Lesson 7
@@ -18,7 +17,6 @@
   
       /Data Structure
          /Lesson 2
-         
       /Internship
          /1º Week
             /Server PHP
@@ -34,7 +32,6 @@
                /Get
                   /Exercise 1
                   /Exercise 2
-
                /If Else ElseIf
                /PHP Functions
                /Post
@@ -42,5 +39,9 @@
                /Switch
                /Variables
                /While
-
             /Terminal PHP
+
+   /Basic_Line_Panel-main
+   /Guess_The_Number_Game-main
+   /Hangman_Game-main
+   /Snake_Game-main
