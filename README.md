@@ -46,4 +46,4 @@
    /Basic_Line_Panel-main
    /Guess_The_Number_Game-main
    /Hangman_Game-main
-/   Snake_Game-main
+   /Snake_Game-main
